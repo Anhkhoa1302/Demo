@@ -7,5 +7,7 @@ public static void main(String[] args) {
     int b = 20;
     int sum = a+b ;
     System.out.println("Tong cua a va b: "+ sum);
+    for (int i = 0; i<=10;i++);
+    System.out.println("")
 }
 }

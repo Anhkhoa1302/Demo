@@ -5,7 +5,7 @@ public class sofibonacci {
         int i = 0;
         int a = 0;
         int b = 1;
-        int c ;
+        int c;
         while (i < 15) {
             System.out.print(a + " ");
             c = a + b;
